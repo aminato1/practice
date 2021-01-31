@@ -1,0 +1,99 @@
+h1 {
+    color: pink;
+ }
+ button {
+    border: 2px solid #34495e;
+    background-color: #3498db;
+ }
+ body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #34495e;
+ }
+ header {
+    width: 90%;
+background-color: black;
+color:white;
+margin-right: auto;
+margin-left:auto;
+padding: 10px;
+overflow:hidden;
+ }
+ h1 {
+    font-size:2em;
+    margin:0;
+    padding:0;
+    padding:0;
+    padding: top 10;
+ }
+ h2 {
+    font-size:1.6;
+ }
+ h3 {  
+    font-size:1.3;
+ }
+ hgroup {
+    widows: 70%;
+    float:left;
+ }
+ hgroup h1 {
+    padding-top:0;
+    line-height:1em;
+ }
+ hgroup h2 {
+
+    font-size:1.2em;
+    line-height:1em;
+ }
+ nav {
+    width: 30%;
+    float: right;
+ }
+ nav ul {
+    list-style-type:none;
+ }
+ nav li {
+    float: left;
+    margin-right:5px ;
+ }
+ section {
+   width: 90%;
+   background-color: black;
+   margin-right: auto;
+   margin-left:auto;
+   border-color:black;
+   border-style:solid;
+   border-width:5px;
+ }
+ nav ul {
+    background-color: #3498db;
+    margin-left: 0pt;
+    margin-left: 0pt;
+
+ }
+   
+ p {
+    margin: 10px;
+ }
+ footer{
+ width: 90%;
+ background-color: black;
+ margin-right: auto;
+ margin-left:auto;
+ }
+ aside {
+    width:80%;
+    margin-right:auto;
+    margin-left:auto;
+    font-size:8em;
+    background:#eeff99;
+    padding:20px;
+    border:1px sold#696;
+    border-radius;20px;
+ }
+ img {
+    width:800px;
+    height:400px;
+    padding-left:40px;
+ }
+    
+    
